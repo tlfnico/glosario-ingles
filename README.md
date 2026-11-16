@@ -6,4 +6,8 @@ Publicada con GitHub Pages en:
 
 https://tlfnico.github.io/glosario-ingles/
 
-El archivo `index.html` es una copia publicable de `glosario-ingles.html`.
+## Archivos
+
+- `index.html` — estructura y contenido.
+- `styles.css` — estilos, animaciones y responsive.
+- `script.js` — interacciones: halo del cursor, parallax del sello y luces de las entradas.
